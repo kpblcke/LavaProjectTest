@@ -11,15 +11,9 @@ public class EnemyPart : MonoBehaviour
         _rigidbody = GetComponent<Rigidbody>();
     }
 
-    private void OnTriggerEnter(Collider other)
+    public void HitPart(Bullet bullet)
     {
-        Bullet bullet = other.GetComponent<Bullet>();
-        if (bullet)
-        {
-            _rigidbody.AddForce(bullet.transform.forward * bullet.GetForce());
-            gameObject.GetComponentInParent<Enemy>().Kill(_rigidbody);
-            bullet.Contact();
-        }
+        _rigidbody.AddForce(bullet.transform.forward * bullet.GetForce());
+        gameObject.GetComponentInParent<Enemy>().Kill(_rigidbody);
     }
-    
 }

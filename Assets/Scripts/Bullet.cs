@@ -5,7 +5,9 @@ public class Bullet : MonoBehaviour
 {
     [SerializeField] 
     private Caliber _caliber;
-
+    [SerializeField] 
+    private MeshRenderer _meshRenderer;
+    
     private Rigidbody _rigidbody;
     
     private void Awake()
@@ -30,12 +32,24 @@ public class Bullet : MonoBehaviour
         {
             return;
         }
+
+        EnemyPart enemyPart = other.GetComponent<EnemyPart>();
+        if (enemyPart)
+        {
+            enemyPart.HitPart(this);
+        }
+        
         Contact();
     }
 
     public void Contact()
     {
-        Destroy(gameObject);
+        if (_meshRenderer)
+        {
+            _meshRenderer.enabled = false;
+        }
+        GetComponent<Collider>().enabled = false;
+        Destroy(gameObject, 0.5f);
     }
 
     public float GetForce()

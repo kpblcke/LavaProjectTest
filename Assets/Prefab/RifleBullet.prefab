@@ -142,6 +142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _caliber: {fileID: 11400000, guid: 59d4291fef8a2a14e95a87be347e6dde, type: 2}
+  _meshRenderer: {fileID: 4108793022327566177}
 --- !u!136 &4108793022679156889
 CapsuleCollider:
   m_ObjectHideFlags: 0
