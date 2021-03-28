@@ -1,13 +1,948 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68584af9-ad14-429a-9cc4-4faeb537025a" name="Default Changelist" comment="">
+    <list default="true" id="68584af9-ad14-429a-9cc4-4faeb537025a" name="Default Changelist" comment="-add all assets&#10;-fix caliber">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lava Project Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lava Project Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/50Caliber.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/50Caliber.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/PistolBullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/PistolBullet.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/RifleBullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/RifleBullet.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyPart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyPart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI/HDRI_Skybox.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI/HDRI_Skybox.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI/shanghai_bund_2k.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI/shanghai_bund_2k.hdr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Female_01_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Female_01_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Materials/Female_01_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Textures/Female_01_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Female_01_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Female_01_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Materials/Female_01_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Textures/Female_01_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Female_02_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Female_02_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Materials/Female_02_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Textures/Female_02_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Female_02_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Female_02_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Materials/Female_02_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Shoes_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Textures/Female_02_V02_Shoes_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Female_03_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Female_03_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Materials/Female_03_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Glasses.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Textures/Female_03_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Female_03_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Female_03_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Materials/Female_03_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Glasses.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V02/Textures/Female_03_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Female_04_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Female_04_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Materials/Female_04_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V01/Textures/Female_04_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Female_04_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Female_04_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Materials/Female_04_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Textures/Female_04_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Female_05_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Female_05_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Materials/Female_05_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Glasses.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Textures/Female_05_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Female_05_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Female_05_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Materials/Female_05_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Materials/Female_05_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Materials/Female_05_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Materials/Female_05_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Materials/Female_05_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Materials/Female_05_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Materials/Female_05_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Materials/Female_05_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Glasses.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V02/Textures/Female_05_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Female_06_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Female_06_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Materials/Female_06_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Materials/Female_06_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Materials/Female_06_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Materials/Female_06_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Materials/Female_06_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Materials/Female_06_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Materials/Female_06_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Materials/Female_06_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V01/Textures/Female_06_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Female_06_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Female_06_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Materials/Female_06_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Materials/Female_06_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Materials/Female_06_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Materials/Female_06_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Materials/Female_06_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Materials/Female_06_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Materials/Female_06_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Materials/Female_06_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Body_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Body_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Textures/Female_06_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Male_01_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Male_01_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Materials/Male_01_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V01/Textures/Male_01_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Male_01_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Male_01_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Materials/Male_01_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Materials/Male_01_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Materials/Male_01_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Materials/Male_01_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Materials/Male_01_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Materials/Male_01_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Materials/Male_01_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Materials/Male_01_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Textures/Male_01_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Male_02_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Male_02_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Materials/Male_02_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Materials/Male_02_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Materials/Male_02_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Materials/Male_02_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Materials/Male_02_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Materials/Male_02_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Materials/Male_02_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Materials/Male_02_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Textures/Male_02_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Male_02_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Male_02_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Materials/Male_02_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Materials/Male_02_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Materials/Male_02_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Materials/Male_02_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Materials/Male_02_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Materials/Male_02_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Materials/Male_02_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Materials/Male_02_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V02/Textures/Male_02_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Male_03_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Male_03_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Materials/Male_03_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Materials/Male_03_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Materials/Male_03_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Materials/Male_03_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Materials/Male_03_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Materials/Male_03_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Materials/Male_03_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Materials/Male_03_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Textures/Male_03_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Male_04_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Male_04_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Materials/Male_04_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Materials/Male_04_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Materials/Male_04_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Materials/Male_04_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Materials/Male_04_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Materials/Male_04_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Materials/Male_04_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Materials/Male_04_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Textures/Male_04_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Male_04_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Male_04_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Materials/Male_04_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Materials/Male_04_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Materials/Male_04_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Materials/Male_04_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Materials/Male_04_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Materials/Male_04_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Materials/Male_04_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Materials/Male_04_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V02/Textures/Male_04_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Male_05_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Male_05_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Materials/Male_05_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Materials/Male_05_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Materials/Male_05_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Materials/Male_05_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Materials/Male_05_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Materials/Male_05_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Materials/Male_05_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Materials/Male_05_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Glasses.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Textures/Male_05_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Male_05_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Male_05_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Materials/Male_05_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Materials/Male_05_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Materials/Male_05_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Materials/Male_05_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Materials/Male_05_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Materials/Male_05_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Materials/Male_05_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Materials/Male_05_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Glasses.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V02/Textures/Male_05_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Male_06_V01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Male_06_V01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Materials/Male_06_V01_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Materials/Male_06_V01_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Materials/Male_06_V01_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Materials/Male_06_V01_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Materials/Male_06_V01_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Materials/Male_06_V01_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Materials/Male_06_V01_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Materials/Male_06_V01_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Textures/Male_06_V01_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Male_06_V02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Male_06_V02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Materials/Male_06_V02_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Materials/Male_06_V02_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Materials/Male_06_V02_Eye.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Materials/Male_06_V02_Eye.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Materials/Male_06_V02_Face.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Materials/Male_06_V02_Face.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Materials/Male_06_V02_Hair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Materials/Male_06_V02_Hair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Eye.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Face.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Hair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Hair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Hair_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V02/Textures/Male_06_V02_Hair_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_01_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_01_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_01_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_01_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_02_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_02_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_02_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_02_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_03_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_03_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_03_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_03_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_04_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_04_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_04_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_04_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_05_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_05_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_05_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_05_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_06_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_06_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_06_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Female/Female_06_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_01_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_01_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_01_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_01_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_02_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_02_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_02_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_02_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_04_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_04_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_04_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_04_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_05_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_05_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_05_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_05_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_06_V01.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_06_V01.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_06_V02.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/GLTF/Male/Male_06_V02.glb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/Scene/BG_drop.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/Scene/BG_drop.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Materials/Female_Outfit_01_Pants.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Materials/Female_Outfit_01_Pants.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Materials/Female_Outfit_01_Shirt.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Materials/Female_Outfit_01_Shirt.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Materials/Female_Outfit_01_Shoes.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Materials/Female_Outfit_01_Shoes.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Pants.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Pants.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Pants_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Pants_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Pants_S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Pants_S.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shirt.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shirt_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shirt_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shirt_S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shirt_S.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shoes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shoes.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shoes_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shoes_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shoes_S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 1/Textures/Female_Outfit_01_Shoes_S.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Materials/Female_Outfit_02_Pants.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Materials/Female_Outfit_02_Pants.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Materials/Female_Outfit_02_Shirt.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Materials/Female_Outfit_02_Shirt.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Materials/Female_Outfit_02_Shoes.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Materials/Female_Outfit_02_Shoes.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Pants_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Pants_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Pants_02_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Pants_02_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Pants_02_S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Pants_02_S.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shirt_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shirt_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shirt_02_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shirt_02_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shoes_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shoes_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shoes_02_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shoes_02_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shoes_02_S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Female Outfit 2/Textures/Outfit_Shoes_02_S.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Materials/Male_Outfit_02_Glasses.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Materials/Male_Outfit_02_Glasses.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Materials/Male_Outfit_02_Pants.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Materials/Male_Outfit_02_Pants.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Materials/Male_Outfit_02_Shirt.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Materials/Male_Outfit_02_Shirt.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Materials/Male_Outfit_02_Shoes.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Materials/Male_Outfit_02_Shoes.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Glasses.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Pants.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Pants.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Pants_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Pants_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Pants_S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Pants_S.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shirt.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shirt_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shirt_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shirt_S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shirt_S.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shoes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shoes.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shoes_N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shoes_N.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shoes_S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 2/Textures/Male_Outfit_02_Shoes_S.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_02_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_02_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_02_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_02_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_03_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_03_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_03_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_03_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_04_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_04_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_04_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_04_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_05_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_05_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_05_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_05_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_06_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_06_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_06_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_06_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_05_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_05_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_05_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_05_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_06_V01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_06_V01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_06_V02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_06_V02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_shadowmask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_shadowmask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/ReflectionProbe-1.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/ReflectionProbe-1.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Assets_showcase_scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Assets_showcase_scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Barrel_v1_LD3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Source/Barrel_v1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Source/Barrel_v1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Source/Barrel_v1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Source/Barrel_v1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Source/Barrel_v1.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v1/Source/Barrel_v1.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Barrel_v2_quadro.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Barrel_v2_quadro.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Barrel_v2_single.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Barrel_v2_single.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Hangar_v1_full.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Hangar_v1_full.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Hangar_v1_half.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Hangar_v1_half.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Source/Hangar_v1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Source/Hangar_v1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Source/Hangar_v1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Source/Hangar_v1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Source/Hangar_v1.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Source/Hangar_v1.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_basic.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_basic.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2_outbuilding3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_3.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_3.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_4.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_4.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_5.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_5.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_6.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_6.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_outbuildings.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_outbuildings.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Hangar_v4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Hangar_v4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source/Hangar_v4.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source/Hangar_v4.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source/Hangar_v4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source/Hangar_v4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source/Hangar_v4.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Source/Hangar_v4.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Donation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Donation/Donation.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Donation/Donation.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Donation/Donation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Donation/Donation.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Map_v1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Map_v1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Map_v2.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Map_v2.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Oil_tank_v2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Oil_tank_v2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source/Oil_tank_v2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source/Oil_tank_v2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source/Oil_tank_v2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source/Oil_tank_v2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source/Oil_tank_v2.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v2/Source/Oil_tank_v2.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Electric_box_v1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Electric_box_v1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Source/Electric_box_v1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Source/Electric_box_v1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Source/Electric_box_v1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Source/Electric_box_v1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Source/Electric_box_v1.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v1/Source/Electric_box_v1.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Electric_box_v2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Electric_box_v2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Source/Electric_box_v2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Source/Electric_box_v2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Source/Electric_box_v2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Source/Electric_box_v2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Source/Electric_box_v2.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v2/Source/Electric_box_v2.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Electric_box_v3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Electric_box_v3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Source/Electric_box_v3.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Source/Electric_box_v3.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Source/Electric_box_v3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Source/Electric_box_v3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Source/Electric_box_v3.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Source/Electric_box_v3.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Generator_v1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Generator_v1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Source/Generator_v1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Source/Generator_v1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Source/Generator_v1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Source/Generator_v1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Source/Generator_v1.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Source/Generator_v1.tga.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +954,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/76DB40A9-3869-4C62-906F-9BBB72DB1A18/84/0672e830/NavMeshAgent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Gamedev/Projects/Lava Project Test/Assets/Prefab/50Caliber.prefab" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FAA55637-FCC1-4BBF-B146-E6835A4641D9/78/99ffd3c5/Physics.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/526469D5-A48C-43EE-BD9A-F19F8745AFA1/5e/d1a552f9/Camera.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -77,8 +1013,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616772143267</updated>
-      <workItem from="1616772161884" duration="31227000" />
+      <workItem from="1616772161884" duration="32237000" />
     </task>
+    <task id="LOCAL-00001" summary="-add all assets&#10;-fix caliber">
+      <created>1616895907140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616895907140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +1032,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="-add all assets&#10;-fix caliber" />
+    <option name="LAST_COMMIT_MESSAGE" value="-add all assets&#10;-fix caliber" />
   </component>
   <component name="WindowStateProjectService">
     <state x="821" y="418" width="555" height="204" key="Github.ShareDialog" timestamp="1616894058189">
@@ -102,5 +1048,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="194" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616884142192" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616895919505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616895919505" />
+    <state x="787" y="255" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1616895846512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="787" y="255" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616895846512" />
   </component>
 </project>
