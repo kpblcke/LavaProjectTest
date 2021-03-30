@@ -7,8 +7,11 @@ public class Bullet : MonoBehaviour
     private Caliber _caliber;
     [SerializeField] 
     private MeshRenderer _meshRenderer;
+    [SerializeField] 
+    private TrailRenderer _trailRenderer;
     
     private Rigidbody _rigidbody;
+    private bool hit = false; 
     
     private void Awake()
     {
@@ -28,10 +31,27 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
+        Contact(other);
+    }
+
+    private void FixedUpdate()
+    {
+        Vector3 fwd = transform.TransformDirection(Vector3.forward);
+        Ray bulletRay = new Ray(transform.position, fwd);
+        RaycastHit bulletHit;
+        if (Physics.Raycast(bulletRay, out bulletHit, _rigidbody.velocity.magnitude * Time.fixedDeltaTime)) { 
+            Contact(bulletHit.collider);
+        }
+    }
+
+    public void Contact(Collider other)
+    {
+        if (hit || other.CompareTag("Player"))
         {
             return;
         }
+
+        hit = true;
 
         EnemyPart enemyPart = other.GetComponent<EnemyPart>();
         if (enemyPart)
@@ -39,15 +59,16 @@ public class Bullet : MonoBehaviour
             enemyPart.HitPart(this);
         }
         
-        Contact();
-    }
-
-    public void Contact()
-    {
         if (_meshRenderer)
         {
             _meshRenderer.enabled = false;
         }
+
+        if (_trailRenderer)
+        {
+            _trailRenderer.enabled = false;
+        }
+        
         GetComponent<Collider>().enabled = false;
         Destroy(gameObject, 0.5f);
     }
