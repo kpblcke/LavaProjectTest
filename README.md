@@ -6,4 +6,6 @@ Shoot at the zombie
 
 На создание прототипа ушло 7 часов, большую из них искал ассеты и настраивал окружение.
 
+Ссылка на игровой билд - https://play.unity.com/mg/other/lava-project-test
+
 <img src="/Showcase/lava project test.png" width=600>
